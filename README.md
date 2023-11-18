@@ -1,4 +1,4 @@
-## Hi 
+## Hi I upload some of my projects here!
 
  <div>
    <a href="https://github.com/ooiale">
